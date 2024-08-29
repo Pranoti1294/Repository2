@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\spring\\CsharpProject\\EduVerseApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\dtos\\user\\userlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:dtos\\user\\userlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\dtos\\user\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:dtos\\user\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\dtos\\user\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:dtos\\user\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|e:\\spring\\csharpproject\\eduverseapi\\migrations\\20240818150155_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0839B4A5-A9A1-4D4B-AA09-D7592495E924}|EduVerseApi.csproj|solutionrelative:migrations\\20240818150155_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:51:55.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserListDto.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\DTOs\\User\\UserListDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UserListDto.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\DTOs\\User\\UserListDto.cs",
+              "RelativeToolTip": "DTOs\\User\\UserListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:51:44.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\DTOs\\User\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UserRegistrationDto.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\DTOs\\User\\UserRegistrationDto.cs",
+              "RelativeToolTip": "DTOs\\User\\UserRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:51:37.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:50:59.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T18:08:30.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:35:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDetailsDto.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\DTOs\\User\\UserDetailsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UserDetailsDto.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\DTOs\\User\\UserDetailsDto.cs",
+              "RelativeToolTip": "DTOs\\User\\UserDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:55:08.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAE4AAAAAZGZmZmYawJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T03:36:19.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240818150155_second.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\Migrations\\20240818150155_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240818150155_second.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\Migrations\\20240818150155_second.cs",
+              "RelativeToolTip": "Migrations\\20240818150155_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:01:55.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "Models\\Quiz.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\Models\\Quiz.cs",
+              "RelativeToolTip": "Models\\Quiz.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:21:26.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T07:35:47.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "Services\\TokenServices.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\Services\\TokenServices.cs",
+              "RelativeToolTip": "Services\\TokenServices.cs",
+              "ViewState": "AQIAAAcAAAAAZmZmZmYGwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:26:35.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "E:\\spring\\CsharpProject\\EduVerseApi\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "E:\\spring\\CsharpProject\\EduVerseApi\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T09:19:53.19Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
